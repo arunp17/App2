@@ -1,0 +1,9 @@
+1. source excel with link file has to be uploaded
+2. Have to write automation script to fetch   meanings for each word
+3.Table has to be created in the firebase with following columns.
+      
+   i) word
+   ii) Meaning
+   iii).Image link ( Storage Link )
+  
+
